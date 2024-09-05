@@ -1,0 +1,11 @@
+.contacto {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacto>.email {
+    font-size: 28px;
+}

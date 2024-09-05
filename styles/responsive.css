@@ -1,0 +1,53 @@
+@media screen and (max-width: 768px) {
+    .navbar ul li a {
+        font-size: 16px;
+    }
+
+    .hero h1 {
+        font-size: 44px;
+    }
+
+    .contacto>.email {
+        font-size: 22px;
+    }
+
+    .contacto>.telefono {
+        font-size: 22px;
+    }
+
+    .main h2 {
+        font-size: 32px;
+    }
+
+    .main h3 {
+        font-size: 22px;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    .navbar ul li a {
+        font-size: 12px;
+    }
+
+    .hero h1 {
+        font-size: 32px;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+
+    .main h2 {
+        font-size: 32px;
+    }
+
+    .main h3 {
+        font-size: 22px;
+    }
+
+    .contacto i {
+        font-size: 18px;
+    }
+
+}
